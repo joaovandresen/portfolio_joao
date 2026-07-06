@@ -4,11 +4,12 @@
 }
 
 body{
-    background-color: aquamarine;
+    background-color: rgb(198, 212, 208);
     font-size: 16px;
+    color: black;
 }
 
 header{
-    background-color: chartreuse;
+    background-color: rgb(80, 80, 80);
     height: 4em;
 }
