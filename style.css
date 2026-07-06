@@ -10,6 +10,10 @@ body{
 }
 
 header{
-    background-color: rgb(128, 127, 127);
+    background-color: rgb(177, 171, 171);
     height: 4em;
+}
+
+header h1{
+    text-align: center;
 }
