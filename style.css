@@ -25,4 +25,12 @@ img{
 
 main{
     background-color: rgb(177, 171, 171);
+    color: azure;
+    flex: 1;
+}
+
+section{
+    margin: 10%;
+    display: flex;
+    
 }
